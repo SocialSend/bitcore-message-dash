@@ -3,8 +3,8 @@ coverage
 node_modules
 
 npm-debug.log
-bitcore-message.js
-bitcore-message.min.js
+socialsendcore-message.js
+socialsendcore-message.min.js
 tests.js
 
 report

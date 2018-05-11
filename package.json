@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-message-dash",
+  "name": "socialsendcore-message",
   "version": "1.0.9",
-  "description": "Dash Messages for Bitcore-Dash",
+  "description": "SocialSend Messages for socialsendcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,20 +11,20 @@
     "build": "gulp"
   },
   "keywords": [
-    "dash",
-    "bitcore-dash",
+    "socialsend",
+    "socialsendcore",
     "message",
     "signing"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/bitcore-message-dash.git"
+    "url": "https://github.com/SocialSend/socialsendcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib-dash": "^0.15.2"
+    "socialsendcore-lib": "github:SocialSend/socialsendcore-lib"
   },
   "devDependencies": {
-    "bitcore-build-dash": "dashpay/bitcore-build-dash",
+    "socialsendcore-build": "github:SocialSend/socialsendcore-build",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"

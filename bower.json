@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-message-dash",
-  "main": "./bitcore-message.min.js",
+  "name": "socialsendcore-message",
+  "main": "./socialsendcore-message.min.js",
   "version": "1.0.4",
-  "homepage": "https://github.com/dashpay/bitcore-message-dash",
+  "homepage": "https://github.com/SocialSend/socialsendcore-message",
   "authors": [
     "BitPay"
   ],
